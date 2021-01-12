@@ -24,3 +24,8 @@ hs_err_pid*
 back/.mvn/
 back/.settings/
 back/target/
+BackEnd/.settings/.jsdtscope
+BackEnd/.settings/
+BackEnd/target/
+FrontEnd/dist/
+FrontEnd/node_modules/
